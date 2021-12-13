@@ -1,2 +1,2 @@
 # student portfolio
-hey welcome to my portfolio 
+Hey welcome to my portfolio! 
